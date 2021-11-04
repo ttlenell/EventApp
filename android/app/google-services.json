@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "868388538575",
+    "project_id": "eventapp-e0cb6",
+    "storage_bucket": "eventapp-e0cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868388538575:android:e465b1ddf125108083cfba",
+        "android_client_info": {
+          "package_name": "com.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868388538575-ke84hq0s415r1tkpjido0m1q49nd2rcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventapp",
+            "certificate_hash": "fb10f8cc7bcb6fc3dbd64055d6b0bc1bf4154722"
+          }
+        },
+        {
+          "client_id": "868388538575-oa1dijvoh8km2va7oq0iadd5nejc22ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FQ-W_hYs3pYoHK8IO5PcBdEE9UfvxeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868388538575-oa1dijvoh8km2va7oq0iadd5nejc22ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868388538575-van4hk37csva93kn1hkphg3r3o7m2hid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.EventApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
